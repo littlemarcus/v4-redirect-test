@@ -13,7 +13,8 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^4.25.1",
+    "@netlify/edge-functions": "^2.9.0",
+    "gatsby": "^5.13.3",
     "gatsby-plugin-netlify": "^5.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
